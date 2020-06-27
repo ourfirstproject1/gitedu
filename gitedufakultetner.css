@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container1 {
+  display: flex;
+  background-color: #472f91;
+  height: 9.4vw;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+}
+.container1_blok1 {
+  width: 19vw;
+  height: 5.64vw;
+  margin-left: 4vw;
+}
+.text {
+  font-size: 1.5vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  transition: 0.2s;
+  height: 3.29vw;
+  margin: 0.2vw;
+  cursor: pointer;
+  text-decoration: none;
+}
+.text:hover {
+  background-color: #ea405a;
+  border: 1px solid white;
+  padding: 1px;
+}
+.container1_blok2 {
+  width: 10vw;
+  margin-left: 5vw;
+}
+.container1_blok3 {
+  width: 14vw;
+}
+.container1_blok4 {
+  width: 13vw;
+}
+.container1_blok5 {
+  width: 9.2vw;
+}
+.container1_blok6 {
+  width: 7.16vw;
+}
+.container1_blok7 {
+  width: 5vw;
+}
+.container1_blok8 {
+  text-decoration: none;
+  font-size: 2.4vw;
+  color: white;
+  position: relative;
+}
+.container2{
+  background: linear-gradient(to bottom,#CC0FDB,#662E91);
+  width: 25vw;
+}
+.container2_blok1 {
+  width: 17vw;
+  height: 17.86vw;
+}
+.container2_blok2 {
+  width: 18vw;
+  height: 3.525vw;
+  margin: 1.3vw;
+  background-color: #e6e6e6;
+  border-radius: 1.6vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5vw;
+  text-decoration: none;
+  border: 2px solid #CC0FDB;
+  color: black;
+}
+.container3{
+  width: 76.56vw;
+}
+.container3_blok1 {
+  align-items: center;
+  width: 100%;
+  text-align: center;
+  font-size: 1.7vw;
+  color: #652D90;
+  margin-top: 1vw;
+}
+.container3_blok2 {
+  align-items: center;
+  width: 100%;
+  text-align: center;
+  font-size: 3.6vw;
+  color: #652D90;
+}
+.container3_blok3 {
+  width: 98%;
+  height: 0.4vw;
+  background: linear-gradient(90deg,#652D90,#FF0DFE);
+  display: block;
+  margin-left: 1%;
+  margin-top: 0.8vw;
+}
+.container3_blok4{
+  width: 100%;
+  display: flex;
+  margin-top: 1vw;
+}
+.container3_blok4_part{
+  width: 18.5vw;
+  height: 28.2vw;
+  border-radius: 1vw;
+  margin-left: 1vw;
+}
+.container3_blok4_part_nkar{
+  width: 100%;
+  height: 15.04vw;
+  border-radius: 1vw;
+}
+.front{
+  margin: 0;
+  padding: 0;
+  font-size: 2vw;
+  text-align: center;
+  color: #1B1464;
+}
